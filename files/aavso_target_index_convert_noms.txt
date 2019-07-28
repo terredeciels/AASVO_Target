@@ -1,0 +1,718 @@
+aavso_target
+KID 2307206                                                                                                                             
+KID 3428468                                                                                                                             
+KIC 10001167                                                                                                                            
+KIC 08462852                                                                                                                            
+KIC 9970396                                                                                                                             
+KID 03644542                                                                                                                            
+KID 08257407                                                                                                                            
+KID 9028474                                                                                                                             
+KID 8044608                                                                                                                             
+KID 4659255                                                                                                                             
+KID 07377422                                                                                                                            
+KIC 2856960                                                                                                                             
+KIC 2856960                                                                                                                             
+khi Cyg                                                                                                                                 
+IS Per                                                                                                                                  
+IZ Vul                                                                                                                                  
+KIC 2856960                                                                                                                             
+KIC 08462852                                                                                                                            
+KIC 08462852                                                                                                                            
+KIC 08462852                                                                                                                            
+KIC 5640750                                                                                                                             
+KIC 7037405                                                                                                                             
+M31_V1                                                                                                                                  
+MASTER OT J132104.04+560957.8                                                                                                           
+LX Ser                                                                                                                                  
+LV Vul                                                                                                                                  
+LX Cyg                                                                                                                                  
+MAXI J1820+070                                                                                                                          
+Mis V1351                                                                                                                               
+miu Cep                                                                                                                                 
+MAXI J1820+070                                                                                                                          
+MAXI J1820+070                                                                                                                          
+MAXI J1820+070                                                                                                                          
+KW Her                                                                                                                                  
+KX Aql                                                                                                                                  
+KU Cas                                                                                                                                  
+KL Cep                                                                                                                                  
+KT Per                                                                                                                                  
+LL Aqr                          338.67563 -3.59950  Name LL Aqr                                                                         
+LQ Peg                                                                                                                                  
+LS And                                                                                                                                  
+LQ Peg                                                                                                                                  
+LL Lyr                                                                                                                                  
+LO Cep                                                                                                                                  
+IP Per                                                                                                                                  
+GK Per                                                                                                                                  
+GK Per                                                                                                                                  
+GK Per                                                                                                                                  
+GH Cam                                                                                                                                  
+GJ 54.1                                                                                                                                 
+GK Per                                                                                                                                  
+GM Aur                                                                                                                                  
+GM Cep                                                                                                                                  
+GK Tau                                                                                                                                  
+GK Per                                                                                                                                  
+GK Per                                                                                                                                  
+GAIA DR2 4150099732733146112                                                                                                            
+GAIA DR2 4150099732733146112                                                                                                            
+GAIA DR2 4131587500273361280                                                                                                            
+g Her                           247.16052 41.88169  g Her                           
+GAIA DR2 4131587500273361280                                                                                                            
+GAIA DR2 4150446010182968192                                                                                                            
+GAIA DR2 4334886650491663104                                                                                                            
+GAIA DR2 4334886650491663104                                                                                                            
+GAIA DR2 4168021909706732672                                                                                                            
+GAIA DR2 4150446010182968192                                                                                                            
+GAIA DR2 4168021909706732672                                                                                                            
+HM Sge                                                                                                                                  
+HO Aur                                                                                                                                  
+HL Tau                                                                                                                                  
+HL Tau                                                                                                                                  
+HL Tau                                                                                                                                  
+HQ Cam                                                                                                                                  
+HV Vir                                                                                                                                  
+IP Peg                          350.78583 18.41656  Name IP Peg                                                                         
+HT Cas                                                                                                                                  
+HR Del                                                                                                                                  
+HS 0624+6907                                                                                                                            
+GZ Aur                                                                                                                                  
+HAT-P-3                                                                                                                                 
+GX Cas                                                                                                                                  
+GSC 05107-00266                                                                                                                         
+GU Tau                                                                                                                                  
+HAT-P-12                                                                                                                                
+HAT-P-38                                                                                                                                
+HD 149026                       247.62365 38.34718  HD 149026                       
+HAT-P-32                                                                                                                                
+HAT-P-18                                                                                                                                
+HAT-P-26                                                                                                                                
+MO Dra                                                                                                                                  
+R Aqr                           354.63704 -9.31875  Name BR Aqr                                                                         
+R Aqr                           354.63704 -9.31875  Name BR Aqr                                                                         
+R Aqr                           354.63704 -9.31875  Name BR Aqr                                                                         
+R Aqr                           354.63704 -9.31875  Name BR Aqr                                                                         
+R Aqr                           354.63704 -9.31875  Name BR Aqr                                                                         
+R Aqr                           354.63704 -9.31875  Name BR Aqr                                                                         
+R Aur                                                                                                                                   
+R Boo                                                                                                                                   
+R Ari                                                                                                                                   
+R Aqr                           354.63704 -9.31875  Name BR Aqr                                                                         
+R Aqr                           354.63704 -9.31875  Name BR Aqr                                                                         
+PU Vul                                                                                                                                  
+PW Vul                                                                                                                                  
+PS Aur                                                                                                                                  
+PQ And                                                                                                                                  
+PQ Cam                                                                                                                                  
+Q Cyg                                                                                                                                   
+R Aqr                           354.63704 -9.31875  Name BR Aqr                                                                         
+R Aqr                           354.63704 -9.31875  Name BR Aqr                                                                         
+R Aql                                                                                                                                   
+QU Vul                                                                                                                                  
+R And                           4.95804   21.94781  Name QR And                                                                         
+RR Aql                                                                                                                                  
+RR Cet                          23.03404  1.34175   Name RR Cet                                                                         
+rho Per                         46.29374  38.84053  rho Per                         
+R Vir                                                                                                                                   
+R Vul                                                                                                                                   
+RR Lyr                                                                                                                                  
+RS Her                                                                                                                                  
+RS Lac                                                                                                                                  
+RS Cyg                                                                                                                                  
+RS Aqr                                                                                                                                  
+RS Boo                                                                                                                                  
+R CVn                                                                                                                                   
+R Cyg                                                                                                                                   
+R Cas                                                                                                                                   
+R Cam                                                                                                                                   
+R Cap                                                                                                                                   
+R Dra                                                                                                                                   
+R Tri                                                                                                                                   
+R UMa                                                                                                                                   
+R Ser                                                                                                                                   
+R Lyr                           283.83369 43.94589  R Lyr                           
+R Peg                           346.66321 10.54336  Name R Peg                                                                          
+PG 1351+640                                                                                                                             
+N Sgr 2018                                                                                                                              
+N Sgr 2018                                                                                                                              
+N Sct 2018                                                                                                                              
+N Sct 2018                                                                                                                              
+N Sct 2018                                                                                                                              
+N Sgr 2018                                                                                                                              
+NQ Vul                                                                                                                                  
+NS Dra                                                                                                                                  
+NO Dra                                                                                                                                  
+N Sgr 2018                                                                                                                              
+N Sgr 2018                                                                                                                              
+MV Lyr                                                                                                                                  
+N Oph 2018 No. 3                                                                                                                        
+MU Ser                          237.40527 -3.43014  MU Ser                          
+MQ Cas                                                                                                                                  
+MRK 421                                                                                                                                 
+N Oph 2018 No. 3                                                                                                                        
+N Sct 2018                                                                                                                              
+N Sct 2018                                                                                                                              
+N Oph 2018 No. 3                                                                                                                        
+N Oph 2018 No. 3                                                                                                                        
+N Oph 2018 No. 3                                                                                                                        
+NT UMa                                                                                                                                  
+NU UMa                          169.61981 33.09424  NU UMa                          
+NSVS J2041274+511326                                                                                                                    
+NSVS J1444107-074451                                                                                                                    
+NSVS J2041274+511326                                                                                                                    
+NX Cas                                                                                                                                  
+OY Aql                                                                                                                                  
+P Cyg                           304.44669 38.03295  P Cyg                           
+OV Aqr                          351.53592 -19.37322 Name OV Aqr                                                                         
+omi Cet                         34.83661  -2.97706  omi Cet                         
+OQ Lyr                                                                                                                                  
+NSV 14400                                                                                                                               
+NSV 15581                                                                                                                               
+NSV 1853                                                                                                                                
+NSV 87                                                                                                                                  
+NSV 93                                                                                                                                  
+NSV 15635                                                                                                                               
+NSVS 2844818                                                                                                                            
+NSVS J1444107-074451                                                                                                                    
+NSV 25882                                                                                                                               
+NSV 15666                                                                                                                               
+NSV 25614                                                                                                                               
+b Per                           64.56073  50.29564  b Per                           
+BC UMa                                                                                                                                  
+AY Lyr                                                                                                                                  
+AW Sge                                                                                                                                  
+AX Per                                                                                                                                  
+bet Per                         47.04221  40.95565  bet Per                         
+BH Cep                                                                                                                                  
+BH Lac                                                                                                                                  
+BH Aur                                                                                                                                  
+BF Cyg                                                                                                                                  
+BG Cep                                                                                                                                  
+ASASSN-V J195442.95+172212.6                                                                                                            
+ASASSN-V J195442.95+172212.6                                                                                                            
+ASASSN-V J195442.95+172212.6                                                                                                            
+ASASSN-18pe                                                                                                                             
+ASASSN-18pe                                                                                                                             
+ASASSN-V J195442.95+172212.6                                                                                                            
+AU Cyg                                                                                                                                  
+AV Peg                                                                                                                                  
+AU Cyg                                                                                                                                  
+ASASSN-V J195442.95+172212.6                                                                                                            
+AT And                                                                                                                                  
+CH Cyg                                                                                                                                  
+CH Cyg                                                                                                                                  
+CH Cyg                                                                                                                                  
+CF Per                                                                                                                                  
+CH Cyg                                                                                                                                  
+CH Cyg                                                                                                                                  
+CI Aql                                                                                                                                  
+CI Aql                                                                                                                                  
+CH UMa                                                                                                                                  
+CH Cyg                                                                                                                                  
+CH Her                                                                                                                                  
+BO Cep                                                                                                                                  
+BP Tau                                                                                                                                  
+BM Tau                                                                                                                                  
+BL Lac                          330.67500 42.02833  BL Lac                          
+BM And                                                                                                                                  
+BS Cep                                                                                                                                  
+CD And                                                                                                                                  
+CF Dra                                                                                                                                  
+BZ UMa                                                                                                                                  
+BS Tau                                                                                                                                  
+BW Cyg                                                                                                                                  
+ASASSN-18pe                                                                                                                             
+AG Peg                                                                                                                                  
+AG Peg                                                                                                                                  
+AG LMi                                                                                                                                  
+AG Dra                                                                                                                                  
+AG Dra                                                                                                                                  
+AG Peg                                                                                                                                  
+AH Her                                                                                                                                  
+AK Cep                                                                                                                                  
+AG Peg                                                                                                                                  
+AG Peg                                                                                                                                  
+AG Peg                                                                                                                                  
+AB Dra                                                                                                                                  
+AC And                                                                                                                                  
+AA Tau                                                                                                                                  
+2MASS J16194990-1537248                                                                                                                 
+3C 273                          187.27499 2.05000   3C 273                          
+AF Cam                                                                                                                                  
+AG Dra                                                                                                                                  
+AG Dra                                                                                                                                  
+AG Dra                                                                                                                                  
+AF Cyg                                                                                                                                  
+AG Dra                                                                                                                                  
+ASASSN-18ca                                                                                                                             
+ASASSN-18ca                                                                                                                             
+ASASSN-18ca                                                                                                                             
+ASAS J182611+1212.6                                                                                                                     
+ASAS J193639+3933.2                                                                                                                     
+ASASSN-18ey                                                                                                                             
+ASASSN-18pe                                                                                                                             
+ASASSN-18pe                                                                                                                             
+ASASSN-18ey                                                                                                                             
+ASASSN-18ey                                                                                                                             
+ASASSN-18ey                                                                                                                             
+alf Her                                                                                                                                 
+alf UMi                                                                                                                                 
+AL Com                                                                                                                                  
+AL Cep                                                                                                                                  
+AL Cep                                                                                                                                  
+AM Cas                                                                                                                                  
+AR Her                                                                                                                                  
+ASAS J050610+2638.7                                                                                                                     
+AR Cep                                                                                                                                  
+AM Her                                                                                                                                  
+AR And                                                                                                                                  
+CI Aql                                                                                                                                  
+EN Sge                                                                                                                                  
+EN Sgr                                                                                                                                  
+EM Cyg                                                                                                                                  
+EH Cep                                                                                                                                  
+EL And                                                                                                                                  
+EN Sgr                                                                                                                                  
+eps Aur                         75.49223  43.82331  eps Aur                         
+eps Aur                         75.49223  43.82331  eps Aur                         
+eps Aur                         75.49223  43.82331  eps Aur                         
+EO Per                                                                                                                                  
+eps Aur                         75.49223  43.82331  eps Aur                         
+DS Tau                                                                                                                                  
+DW Sge                                                                                                                                  
+DR Cyg                                                                                                                                  
+DQ Her                                                                                                                                  
+DR Cyg                                                                                                                                  
+DX And                                                                                                                                  
+EF Peg                                                                                                                                  
+EG And                                                                                                                                  
+EE Cep                                                                                                                                  
+DY Her                                                                                                                                  
+DZ Cep                                                                                                                                  
+FO Aql                                                                                                                                  
+FO Aqr                          334.48075 -8.35106  Name FO Aqr                                                                         
+FO And                                                                                                                                  
+FN And                                                                                                                                  
+FN Sgr                                                                                                                                  
+FO Aqr                          334.48075 -8.35106  Name FO Aqr                                                                         
+FY Aql                                                                                                                                  
+FY Lac                                                                                                                                  
+FX Tau                                                                                                                                  
+FO Per                                                                                                                                  
+FR Lac                                                                                                                                  
+EY Cyg                                                                                                                                  
+FASTT 1100                                                                                                                              
+EU Del                                                                                                                                  
+eps Aur                         75.49223  43.82331  eps Aur                         
+eta Aql                         298.11818 1.00568   eta Aql                         
+FASTT 1100                                                                                                                              
+FI Per                                                                                                                                  
+FI Per                                                                                                                                  
+FH Aql                                                                                                                                  
+FF Aql                          284.56145 17.36094  FF Aql                          
+FG Aql                                                                                                                                  
+DO Dra                                                                                                                                  
+CSS_J160450.1+520159                                                                                                                    
+CT Lac                                                                                                                                  
+CRTS J105122.8+672528                                                                                                                   
+CR Boo                                                                                                                                  
+CRTS J105122.8+672528                                                                                                                   
+CT Vul                                                                                                                                  
+Dauban V239                                                                                                                             
+Dauban V241                                                                                                                             
+CY UMa                                                                                                                                  
+CW Tau                                                                                                                                  
+CY Lyr                                                                                                                                  
+CP Lac                                                                                                                                  
+CR Boo                                                                                                                                  
+CN Sge                                                                                                                                  
+CI Cyg                                                                                                                                  
+CI UMa                                                                                                                                  
+CR Boo                                                                                                                                  
+CR Boo                                                                                                                                  
+CR Boo                                                                                                                                  
+CR Boo                                                                                                                                  
+CR Boo                                                                                                                                  
+CR Boo                                                                                                                                  
+DI UMa                                                                                                                                  
+DK Cam                                                                                                                                  
+DI Cep                                                                                                                                  
+DG Tau                                                                                                                                  
+DH Aql                                                                                                                                  
+DL Her                                                                                                                                  
+DN Per                                                                                                                                  
+DN Tau                                                                                                                                  
+DM Ser                                                                                                                                  
+DM Cyg                                                                                                                                  
+DM Lyr                                                                                                                                  
+Dauban V245                                                                                                                             
+Dauban V246                                                                                                                             
+Dauban V244                                                                                                                             
+Dauban V242                                                                                                                             
+Dauban V243                                                                                                                             
+Dauban V247                                                                                                                             
+DF Tau                                                                                                                                  
+DG Aur                                                                                                                                  
+del Cep                         337.29270 58.41519  del Cep                         
+DD Ser                                                                                                                                  
+DDE 48                                                                                                                                  
+RS Oph                                                                                                                                  
+V1514 Cyg                                                                                                                               
+V1515 Cyg                                                                                                                               
+V1500 Cyg                                                                                                                               
+V1490 Cyg                                                                                                                               
+V1490 Cyg                                                                                                                               
+V1655 Cyg                                                                                                                               
+V1668 Cyg                                                                                                                               
+V1687 Cyg                                                                                                                               
+V1659 Cyg                                                                                                                               
+V1655 Cyg                                                                                                                               
+V1659 Cyg                                                                                                                               
+V1344 Her                                                                                                                               
+V1356 Tau                                                                                                                               
+V1331 Cyg                                                                                                                               
+V1301 Cyg                                                                                                                               
+V1301 Cyg                                                                                                                               
+V1393 Cyg                                                                                                                               
+V1490 Cyg                                                                                                                               
+V1490 Cyg                                                                                                                               
+V1490 Cyg                                                                                                                               
+V1413 Aql                                                                                                                               
+V1454 Cyg                                                                                                                               
+V2492 Cyg                                                                                                                               
+V2492 Cyg                                                                                                                               
+V2487 Oph                                                                                                                               
+V1982 Cyg                                                                                                                               
+V2487 Oph                                                                                                                               
+V2492 Cyg                                                                                                                               
+V2525 Oph                                                                                                                               
+V2525 Oph                                                                                                                               
+V2500 Oph                                                                                                                               
+V2492 Cyg                                                                                                                               
+V2492 Cyg                                                                                                                               
+V1687 Cyg                                                                                                                               
+V1719 Aql                                                                                                                               
+V1687 Cyg                                                                                                                               
+V1687 Cyg                                                                                                                               
+V1687 Cyg                                                                                                                               
+V1725 Aql                                                                                                                               
+V1938 Cyg                                                                                                                               
+V1977 Cyg                                                                                                                               
+V1910 Cyg                                                                                                                               
+V1811 Aql                                                                                                                               
+V1819 Cyg                                                                                                                               
+V1287 Tau                                                                                                                               
+V0788 Cyg                                                                                                                               
+V0795 Cyg                                                                                                                               
+V0751 Per                                                                                                                               
+V0750 Cep                       359.11482 83.19110  V CEP                           
+V0751 Cyg                                                                                                                               
+V0798 Cep                       359.11482 83.19110  V CEP                           
+V0880 Cep                       359.11482 83.19110  V CEP                           
+V0888 Per                                                                                                                               
+V0850 Cep                       359.11482 83.19110  V CEP                           
+V0811 Cyg                                                                                                                               
+V0840 Her                                                                                                                               
+V0630 Cas                                                                                                                               
+V0630 Cyg                                                                                                                               
+V0628 Cas                                                                                                                               
+V0594 Cas                                                                                                                               
+V0603 Aql                                                                                                                               
+V0632 Cyg                                                                                                                               
+V0730 Cep                       359.11482 83.19110  V CEP                           
+V0732 Per                                                                                                                               
+V0725 Aql                                                                                                                               
+V0642 Cas                                                                                                                               
+V0698 Cyg                                                                                                                               
+V1117 Her                                                                                                                               
+V1117 Her                                                                                                                               
+V1117 Her                                                                                                                               
+V1117 Her                                                                                                                               
+V1117 Her                                                                                                                               
+V1121 Oph                                                                                                                               
+V1177 Cas                                                                                                                               
+V1251 Cyg                                                                                                                               
+V1162 Cas                                                                                                                               
+V1141 Cas                                                                                                                               
+V1160 Cas                                                                                                                               
+V0922 Cep                       359.11482 83.19110  V CEP                           
+V0957 Cep                       359.11482 83.19110  V CEP                           
+V0921 Cep                       359.11482 83.19110  V CEP                           
+V0898 Cep                       359.11482 83.19110  V CEP                           
+V0919 Cep                       359.11482 83.19110  V CEP                           
+V0958 Per                                                                                                                               
+V1098 Sco                                                                                                                               
+V1112 Cas                                                                                                                               
+V1057 Cyg                                                                                                                               
+V1016 Cyg                                                                                                                               
+V1028 Cyg                                                                                                                               
+V2541 Cyg                                                                                                                               
+WW Vul                                                                                                                                  
+WX Cyg                                                                                                                                  
+WW Cet                          2.85321   -11.47864 Name WW Cet                                                                         
+WASP-76                         26.63275  2.70056   Name WASP-76                                                                        
+WASP-80                                                                                                                                 
+WZ Cas                                                                                                                                  
+X Her                           261.68434 48.26007  X Her                           
+X Oph                                                                                                                                   
+X Cam                                                                                                                                   
+WZ Sge                                                                                                                                  
+X Aur                                                                                                                                   
+W Lyr                                                                                                                                   
+W Peg                           345.53196 10.59075  Name IW Peg                                                                         
+W Her                           260.16447 32.47027  W Her                           
+W Cyg                           324.01018 45.37459  W Cyg                           
+W Dra                                                                                                                                   
+W Per                                                                                                                                   
+WASP-67                                                                                                                                 
+WASP-69                                                                                                                                 
+WASP-52                         348.49483 8.76128   Name WASP-52                                                                        
+W Tau                                                                                                                                   
+WASP-39                                                                                                                                 
+YZ Cet                          18.12767  -16.99897 Name YZ Cet                                                                         
+Z And                           8.15175   26.02258  Name DZ And                                                                         
+YZ Cep                                                                                                                                  
+Y Per                                                                                                                                   
+YY Her                                                                                                                                  
+Z Aur                                                                                                                                   
+Z UMa                                                                                                                                   
+ZZ Tau                                                                                                                                  
+Z Cyg                                                                                                                                   
+Z Cam                                                                                                                                   
+Z Cas                                                                                                                                   
+XZ Cyg                                                                                                                                  
+XZ Dra                                                                                                                                  
+XY Per                                                                                                                                  
+XX And                                                                                                                                  
+XX Sct                                                                                                                                  
+XZ Tau                                                                                                                                  
+Y Cyg                                                                                                                                   
+Y Del                                                                                                                                   
+Y CVn                           191.28262 45.44022  Y CVn                           
+XZ Tau                                                                                                                                  
+XZ Tau                                                                                                                                  
+W Cep                                                                                                                                   
+V392 Per                                                                                                                                
+V392 Per                                                                                                                                
+V386 Ser                                                                                                                                
+V378 Peg                                                                                                                                
+V386 Ser                                                                                                                                
+V392 Per                                                                                                                                
+V657 Cas                                                                                                                                
+V657 Cas                                                                                                                                
+V404 Cyg                                                                                                                                
+V392 Per                                                                                                                                
+V392 Per                                                                                                                                
+V2638 Oph                                                                                                                               
+V2642 Oph                                                                                                                               
+V2636 Oph                                                                                                                               
+V2544 Cyg                                                                                                                               
+V2618 Cyg                                                                                                                               
+V2647 Cyg                                                                                                                               
+V353 Vul                                                                                                                                
+V378 Peg                                                                                                                                
+V353 Vul                                                                                                                                
+V349 Vul                                                                                                                                
+V349 Vul                                                                                                                                
+VX Her                                                                                                                                  
+VY Aqr                                                                                                                                  
+VX Cep                                                                                                                                  
+VX Cas                                                                                                                                  
+VX Cep                                                                                                                                  
+VY Tau                                                                                                                                  
+W Cas                                                                                                                                   
+W Cep                                                                                                                                   
+W And                                                                                                                                   
+VY UMa                                                                                                                                  
+VZ Aqr                                                                                                                                  
+V850 Cas                                                                                                                                
+V850 Cas                                                                                                                                
+V818 Sco                                                                                                                                
+V750 Cyg                                                                                                                                
+V750 Cyg                                                                                                                                
+VV Cep                          329.16310 63.62557  VV Cep                          
+VW UMa                                                                                                                                  
+VW Vul                                                                                                                                  
+VV Ser                                                                                                                                  
+VV Cep                          329.16310 63.62557  VV Cep                          
+VV Cep                          329.16310 63.62557  VV Cep                          
+ST UMa                                                                                                                                  
+SU UMa                                                                                                                                  
+ST Tri                                                                                                                                  
+ST And                                                                                                                                  
+ST Boo                                                                                                                                  
+SU UMa                                                                                                                                  
+SU UMa                                                                                                                                  
+SU UMa                                                                                                                                  
+SU UMa                                                                                                                                  
+SU UMa                                                                                                                                  
+SU UMa                                                                                                                                  
+SDSS J153817.35+512338.0                                                                                                                
+SS 295                                                                                                                                  
+SDSS J141118.31+481257.6                                                                                                                
+SDSS J141118.31+481257.6                                                                                                                
+SDSS J141118.31+481257.6                                                                                                                
+SS 295                                                                                                                                  
+SS UMi                                                                                                                                  
+SS Vir                                                                                                                                  
+SS Cyg                                                                                                                                  
+SS Aur                                                                                                                                  
+SS Cep                                                                                                                                  
+T Cam                                                                                                                                   
+T Cas                                                                                                                                   
+T Ari                                                                                                                                   
+SX Her                                                                                                                                  
+SZ Boo                                                                                                                                  
+T Cep                                                                                                                                   
+T Dra                                                                                                                                   
+T Her                           275.25424 28.86984  T Her                           
+T CVn                                                                                                                                   
+T Cet                           12.26783  2.42097   Name ST Cet                     
+T CrB                                                                                                                                   
+SV Cas                                                                                                                                  
+SV Cep                                                                                                                                  
+SV Ari                                                                                                                                  
+SU UMa                                                                                                                                  
+SU UMa                                                                                                                                  
+SW And                                                                                                                                  
+SX Cyg                                                                                                                                  
+SX Cyg                                                                                                                                  
+SW UMa                                                                                                                                  
+SW Aqr                                                                                                                                  
+SW Boo                                                                                                                                  
+SDSS J141118.31+481257.6                                                                                                                
+RW Aur                                                                                                                                  
+RW Aur                                                                                                                                  
+RW Aur                                                                                                                                  
+RV Peg                                                                                                                                  
+RV UMa                                                                                                                                  
+RW Aur                                                                                                                                  
+RX And                                                                                                                                  
+RX Boo                                                                                                                                  
+RW Dra                                                                                                                                  
+RW Aur                                                                                                                                  
+RW Aur                                                                                                                                  
+RT Cyg                                                                                                                                  
+RU And                                                                                                                                  
+RT Aql                                                                                                                                  
+RS UMa                                                                                                                                  
+RT Aql                                                                                                                                  
+RU Cyg                                                                                                                                  
+RU Vir                                                                                                                                  
+RU Vul                                                                                                                                  
+RU Peg                                                                                                                                  
+RU Her                                                                                                                                  
+RU Lyr                                                                                                                                  
+S Del                                                                                                                                   
+S Her                           247.64002 20.47935  S Her                           
+S CrB                                                                                                                                   
+S Cas                                                                                                                                   
+S Cep                                                                                                                                   
+S Lyr                                                                                                                                   
+S Vir                                                                                                                                   
+SDSS J141118.31+481257.6                                                                                                                
+S UMi                                                                                                                                   
+S Per                                                                                                                                   
+S UMa                                                                                                                                   
+RY UMa                                                                                                                                  
+RZ Cyg                                                                                                                                  
+RY Tau                                                                                                                                  
+RX UMa                                                                                                                                  
+RY Dra                          194.10789 65.99442  RY Dra                          
+RZ Lyr                                                                                                                                  
+S Aur                                                                                                                                   
+S Boo                                                                                                                                   
+S Aql                                                                                                                                   
+RZ Psc                                                                                                                                  
+RZ Sge                                                                                                                                  
+T Peg                           358.15458 10.94733  Name HT Peg                                                                         
+V0375 Lac                                                                                                                               
+V0381 And                                                                                                                               
+V0373 Cep                       359.11482 83.19110  V CEP                           
+V0369 Per                                                                                                                               
+V0372 Aur                                                                                                                               
+V0404 Cyg                                                                                                                               
+V0441 Dra                                                                                                                               
+V0443 Her                                                                                                                               
+V0426 Oph                                                                                                                               
+V0413 Ser                                                                                                                               
+V0425 Dra                                                                                                                               
+V Boo                                                                                                                                   
+V Cas                                                                                                                                   
+V Aql                                                                                                                                   
+UZ Boo                                                                                                                                  
+UZ Ser                                                                                                                                  
+V CrB                                                                                                                                   
+V0347 Aur                                                                                                                               
+V0347 Cam                                                                                                                               
+V0344 Lyr                                                                                                                               
+V CVn                                                                                                                                   
+V Cyg                                                                                                                                   
+V0533 Her                                                                                                                               
+V0536 Aql                                                                                                                               
+V0519 Cas                                                                                                                               
+V0516 Cyg                                                                                                                               
+V0517 Cyg                                                                                                                               
+V0539 Lyr                                                                                                                               
+V0586 Tau                                                                                                                               
+V0587 Tau                                                                                                                               
+V0561 Cyg                                                                                                                               
+V0542 Cyg                                                                                                                               
+V0545 Cas                                                                                                                               
+V0488 Cep                       359.11482 83.19110  V CEP                           
+V0491 Vul                                                                                                                               
+V0476 Cyg                                                                                                                               
+V0446 Her                                                                                                                               
+V0457 Lac                                                                                                                               
+V0493 Sct                                                                                                                               
+V0512 Cam                                                                                                                               
+V0516 Cam                                                                                                                               
+V0503 Cyg                                                                                                                               
+V0497 Lyr                                                                                                                               
+V0498 Cam                                                                                                                               
+UY Boo                                                                                                                                  
+TX CVn                                                                                                                                  
+TX Dra                                                                                                                                  
+TW Her                                                                                                                                  
+TW Boo                                                                                                                                  
+TW Cap                                                                                                                                  
+TY Cas                                                                                                                                  
+TZ Per                                                                                                                                  
+U Aql                           292.33900 -7.04406  U Aql                           
+TZ Cyg                                                                                                                                  
+TY Cas                                                                                                                                  
+TY Psc                                                                                                                                  
+TT Aql                                                                                                                                  
+TT Ari                                                                                                                                  
+T UMi                                                                                                                                   
+T Tau                           53.14971  9.37356   T Tau                           
+T UMa                                                                                                                                   
+TT Ari                                                                                                                                  
+TU Cyg                                                                                                                                  
+TV Boo                                                                                                                                  
+TT Boo                                                                                                                                  
+TT Ari                                                                                                                                  
+TT Ari                                                                                                                                  
+UCAC3 323-013086                                                                                                                        
+UU Aql                                                                                                                                  
+U UMi                                                                                                                                   
+U Sco                                                                                                                                   
+U Sco                                                                                                                                   
+UU Aqr                          332.27375 -3.77153  Name UU Aqr                                                                         
+UW Per                                                                                                                                  
+UY Aur                                                                                                                                  
+UV Per                                                                                                                                  
+UU Aqr                          332.27375 -3.77153  Name UU Aqr                                                                         
+UU Boo                                                                                                                                  
+U Her                           259.33154 33.10011  U Her                           
+U LMi                                                                                                                                   
+U Del                           311.36762 18.09006  U Del                           
+U Cam                                                                                                                                   
+U Cyg                                                                                                                                   
+U Lyr                                                                                                                                   
+U Sco                                                                                                                                   
+U Sco                                                                                                                                   
+U Sco                                                                                                                                   
+U Per                                                                                                                                   
+U Sco                                                                                                                                   
